@@ -1,4 +1,4 @@
-# Facharbeit Bewertung
+# Hinweise zum Protokoll Facharbeit
 
 
 # Was sollst du tun?
@@ -69,7 +69,7 @@ Am Ende:
 
 In Klammern siehst du jeweils, wie das in die finale Note eingeht.
 
-Zu deinem Produkt/Projekt: (30%)
+Zu deinem Produkt/Projekt: (35%)
 
 - War der Umfang deines Projekts der Facharbeit angemessen (oder hast du zu dir zu wenig Mühe gegeben)
 - Du hast selbstständig gearbeitet, es aber nicht versäumt, Feedback einzuholen oder bei Problemen nachzufragen
@@ -90,7 +90,7 @@ Zu den einzelnen Blöcken in deinem Protokoll:
     - Du hast dein Produkt aus verschiedenen Perspektiven betrachtet
     - Es ist klar, warum du diese Anforderungen gewählt hast
     - Deine Checkliste enthält eine gute Auswahl an Anforderungen (also die Anforderungen wirken sinnvoll und du hast keine offensichtlichen vergessen)
-1. Planung: (20%)
+1. Planung: (15%)
     - Wie sauber hast du recherchiert
       - Du hast die einzelnen Möglichkeiten so beschrieben, dass man sie versteht
       - Du hast keine naheliegende Möglichkeit übersehen
@@ -98,7 +98,7 @@ Zu den einzelnen Blöcken in deinem Protokoll:
     - Dein Plan und deine Architektur beschreiben verständlich, wie du dein Projekt umsetzen willst
     - Dein Zeitplan ist übersichtlich
     - Deine Planung war realistisch (im Nachhinein)
-1. Ausführung: (10%)
+1. Ausführung: (15%)
     - Du hast die einzelnen Schritte deiner Ausführung gut protkolliert
     - Deine Entscheidungen, was Änderungen am Produkt/Plan angeht, sind anchvollziehbar
 1. Evaluation: (10%)
@@ -107,7 +107,7 @@ Zu den einzelnen Blöcken in deinem Protokoll:
     - Du hast deine Tests ausreichend dokumentiert
     - Du hast kritisch analysiert, was an deinem Produkt noch besser gemacht werden könnte
     - Du hast dein Produkt mit "Konkurrenzprodukten" verglichen bzw. überlegt, was es für einen Einfluss auf mögliche Käufer hat
-1. Reflektion (bei der _Reflektion_ wird nur bewertet, was du Über dich und deine Arbeitsweise schreibst): (10%)
+1. Reflektion (bei der _Reflektion_ wird nur bewertet, was du Über dich und deine Arbeitsweise schreibst): (5%)
     - Du hast dich kritisch damit auseinandergesetzt, was gut und as verbesserungswürdig lief
     - Du machst konstruktive Vorschläge, wie man es hätte besser machen können
 
